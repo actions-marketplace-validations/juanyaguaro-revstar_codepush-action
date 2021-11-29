@@ -1,5 +1,5 @@
 name: 'GitHub Action for Codepush'
-author: 'Nishanth Shankar'
+author: 'Nishanth Shankar;Juan Yaguaro'
 description: 'Wraps the appcenter CLI to enable common commands.'
 branding:
   icon: 'package'
