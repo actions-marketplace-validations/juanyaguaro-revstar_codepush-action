@@ -1,4 +1,4 @@
-name: 'GitHub Action for Codepush'
+name: 'GitHub Action for Codepush using node 14'
 author: 'Nishanth Shankar;Juan Yaguaro'
 description: 'Wraps the appcenter CLI to enable common commands.'
 branding:
